@@ -1,4 +1,4 @@
-# ahkD-dvekt
+# ahkDødvekt
 Ahk skript for å raskt fylle ut dødvektstrykk i excel.
 <br />
 <br />
