@@ -20,5 +20,7 @@ Numpad / = 10 C<br />
 Numpad * = 10 D<br />
  <br /> 
 <div style="width:400px ; height:600px">
+ 
 ![Keyguide](/dep_9897576-Close-up-numpad-1968047146.png?raw=true "Numpad")
-</div>
+ 
+<div>
