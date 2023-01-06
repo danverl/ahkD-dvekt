@@ -1,9 +1,10 @@
 # ahkD-dvekt
 Ahk skript for å raskt fylle ut dødvektstrykk i excel.
+/n
+Ctrl + Numpad 0 = Enable /n
+Ctrl + Numpad , = Bytt mellom 1/8 inch og 1/80 inch /n
 
-Ctrl + Numpad 0 = Enable
-Ctrl + Numpad , = Bytt mellom 1/8 inch og 1/80 inch
-
+/n 
 Ctrl + Numpad [n] for å fylle inn vekt til følgende lodd:
 Numpad 1 = L
 Numpad 2 = 0,5
